@@ -1,0 +1,8 @@
+PyPDF2
+pandas
+openpyxl
+pikepdf
+pdf2docx
+python-docx
+docx2pdf
+PyMuPDF
